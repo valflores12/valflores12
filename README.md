@@ -30,7 +30,7 @@
 
 <div align="center">
   <h2> Proyectos y Dashboards</h2>
-  <p><em>Próximamente estarán algunos de mis trabajos realizados</em></p>
+  <p><em></em></p>
 </div>
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
