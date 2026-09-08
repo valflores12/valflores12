@@ -7,6 +7,17 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=2500&pause=1000&color=123456&background=BDE0FE00&center=true&vCenter=true&lines=¡Hola!+👋+Soy+Valeria+Flores;Profesora+y+Desarrolladora+Web" alt="Valeria Flores - Portada">
+  <br>
+  <p><em>Profesora en Informática y Especialista en Didáctica de Ciencias de la Computación.<br>Especialista en Inteligencia de Datos Aplicada y Desarrollo Web en formación.</em></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/DIDACTICA-023E8A?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Didactica">
+    <img src="https://img.shields.io/badge/DATA_INTELLIGENCE-0077B6?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Intelligence">
+    <img src="https://img.shields.io/badge/WEB_DEVELOPER-0096C7?style=for-the-badge&logo=html5&logoColor=white" alt="Web Developer">
+  </p>
+</div>
 ---
 
 <div align="center">
