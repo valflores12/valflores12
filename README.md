@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #0d1117; padding: 30px; border-radius: 12px; border: 1px solid #30363d;">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&background=0d111700&center=true&vCenter=true&lines=¡Hola!+👋+Soy+Valeria+Flores;Profesora+y+Desarrolladora+Web" alt="Valeria Flores - Portada">
+ 
   <br><br>
   <p style="color: #c9d1d9; font-size: 15px;"><em>Profesora en Informática y Especialista en Didáctica de Ciencias de la Computación.<br>Especialista en Inteligencia de Datos Aplicada y Desarrollo Web en formación.</em></p>
 
