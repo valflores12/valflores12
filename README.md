@@ -1,16 +1,13 @@
 <div align="center">
   <h1> Valeria Flores</h1>
-  <p><em>Profesora en Informática y Especialista en Didáctica de Ciencias de la Computación. Terminé de cursar la Especialización en Inteligencia de Datos Aplicada y Desarrollo Web en formación</em></p>
-
+  <p><em>Profesora en Informática y Especialista en Didáctica de Ciencias de la Computación.<br>Especialista en Inteligencia de Datos Aplicada y Desarrollo Web en formación.</em></p>
   <p>
     <img src="https://img.shields.io/badge/PROFESSOR%20&%20DEVELOPER-0e1726?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role">
   </p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=2500&pause=1000&color=123456&background=BDE0FE00&center=true&vCenter=true&lines=¡Hola!+👋+Soy+Valeria+Flores;Profesora+y+Desarrolladora+Web" alt="Valeria Flores - Portada">
   <br>
-  <p><em>Profesora en Informática y Especialista en Didáctica de Ciencias de la Computación.<br>Especialista en Inteligencia de Datos Aplicada y Desarrollo Web en formación.</em></p>
 
   <p>
     <img src="https://img.shields.io/badge/DIDACTICA-023E8A?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Didactica">
