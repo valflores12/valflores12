@@ -36,7 +36,7 @@
 | Proyecto | Descripción | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **Faros de Argentina** | Estudio analítico, estadístico y cartográfico de la infraestructura lumínica costera en relación con los puertos nacionales. | R • Leaflet • Ggplot2 • GIS | [Ver Repositorio](https://github.com/valflores12/dashboard-faros) |
-| **Repositorio-IP** | Prácticas y proyectos de desarrollo de software. | PHP | [Ver Repositorio](https://github.com/valflores12/Repositorio-IP) |
+| **Repositorio-IP** | Prácticas y proyectos de desarrollo de software. | PHP | [Ver Repositorio] |
 
 ---
 
