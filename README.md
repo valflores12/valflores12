@@ -24,7 +24,7 @@
 
 | 💻 Desarrollo Web & Lógica | 📊 Análisis & Datos | 🛠️ Herramientas |
 | :--- | :--- | :--- |
-| • PHP • JavaScript<br>• HTML / CSS | • Python • SQL | • Git & GitHub<br>• VS Code |
+| • PHP • JavaScript<br>• HTML / CSS | • Python • SQL | • Git & GitHub<br>• VS Code • R Studio |
 
 <br>
 
