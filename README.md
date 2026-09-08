@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <h2>📊 Proyectos y Dashboards</h2>
+  <h2> Proyectos y Dashboards</h2>
   <p><em>Próximamente estarán algunos de mis trabajos realizados</em></p>
 </div>
 
